@@ -1,0 +1,8 @@
+{
+   "project_title" : "Cookiecutter Personal",
+   "project_slug" : "cookiecutter_slug",
+   "project_description" : "Create Data Science Templeates Projects",
+   "project_author_name" : "Your Name",
+   "project_packages" : ["All", "Minimal"],
+   "python_version" : "3.7"
+}
